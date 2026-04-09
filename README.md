@@ -1,6 +1,7 @@
-<h1 align="center">Hey, I'm Melike ✨</h1>
-
-<img align="right" width="280" src="cat.png" />
+<h1 align="center">
+  Hey, I'm Melike ✨
+  <img src="cat.jpg" width="38" height="38" style="border-radius:50%;" />
+</h1>
 
 <p align="center">
   Frontend-focused Full Stack Developer who loves clean UI, thoughtful UX, and turning ideas into real products.
