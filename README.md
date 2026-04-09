@@ -1,5 +1,3 @@
-<img align="right" width="220" src="cat.png" />
-
 <h1 align="center">Hey, I'm Melike ✨</h1>
 
 <p align="center">
@@ -10,11 +8,11 @@
   I build user-friendly web experiences with a soft spot for design, frontend logic, and making things feel just right.
 </p>
 
-<br clear="right"/>
-
 ---
 
 ### 🐱 A little more about me...
+
+<img align="right" width="230" src="cat.png" />
 
 ```javascript
 const melike = {
