@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm Melike <img src="cinnamoroll-sanrio.gif" width="40" />
+  Hey, I'm Melike <img src="cinnamoroll-sanrio.gif" width="36" />
 </h1>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-### 🐱 A little more about me...
+### 🐱 A little more about me (in code)
 
-<img align="right" width="230" src="cat.png" />
+<img align="right" width="220" src="cat.png" />
 
 ```javascript
 const melike = {
@@ -24,5 +24,6 @@ const melike = {
   loves: ["designing", "debugging", "improving UX", "making things make sense"],
   tools: ["React", "Angular", "JavaScript", "TypeScript", "Dart", "CSS", "Java", "C++"],
   currentlyExploring: ["Flutter", "Testing", "Backend Architecture"],
+  currentlyBuilding: "Personal projects and improving my frontend & full-stack skills",
   funFact: "Will absolutely notice if the spacing feels off ✨"
 }
