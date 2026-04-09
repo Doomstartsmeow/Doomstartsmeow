@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Melike ✨</h1>
+<img align="right" width="220" src="cat.png" />
 
-<img align="right" width="280" src="cat.png" />
+<h1 align="center">Hey, I'm Melike ✨</h1>
 
 <p align="center">
   Frontend-focused Full Stack Developer who loves clean UI, thoughtful UX, and turning ideas into real products.
@@ -9,6 +9,8 @@
 <p align="center">
   I build user-friendly web experiences with a soft spot for design, frontend logic, and making things feel just right.
 </p>
+
+<br clear="right"/>
 
 ---
 
