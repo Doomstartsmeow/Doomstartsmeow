@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I'm Melike ✨</h1>
 
+<img align="right" width="280" src="cat.png" />
+
 <p align="center">
   Frontend-focused Full Stack Developer who loves clean UI, thoughtful UX, and turning ideas into real products.
 </p>
@@ -9,6 +11,8 @@
 </p>
 
 ---
+
+### 🐱 A little more about me...
 
 ```javascript
 const melike = {
