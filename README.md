@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Melike ✨</h1>
 
-<!--
-**Doomstartsmeow/Doomstartsmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Frontend-focused Full Stack Developer who loves clean UI, thoughtful UX, and turning ideas into real products.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build user-friendly web experiences with a soft spot for design, frontend logic, and making things feel just right.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```javascript
+const melike = {
+  currentStatus: "Turning ideas into clean, user-friendly interfaces",
+  mainFocus: "Frontend Development",
+  alsoWorksWith: "APIs, backend logic when needed, and full product thinking",
+  loves: ["designing", "debugging", "improving UX", "making things make sense"],
+  tools: ["React", "Angular", "JavaScript", "TypeScript", "Dart", "CSS", "Java", "C++"],
+  currentlyExploring: ["Flutter", "Testing", "Backend Architecture"],
+  funFact: "Will absolutely notice if the spacing feels off ✨"
+}
