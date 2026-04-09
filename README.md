@@ -27,3 +27,11 @@ const melike = {
   currentlyBuilding: "Personal projects and improving my frontend & full-stack skills",
   funFact: "Will absolutely notice if the spacing feels off ✨"
 }
+
+🚧 Currently working on:
+
+Building personal full-stack projects
+Improving UI/UX and frontend architecture
+Exploring Flutter & mobile development
+
+📫 Reach me: mlkyldz1920@gmail.com
