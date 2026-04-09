@@ -12,7 +12,7 @@
 
 ---
 
-### 🐱 A little more about me 
+### 🐱 A little more about me
 
 <img align="right" width="220" src="cat.png" />
 
